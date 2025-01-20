@@ -3,6 +3,6 @@ module.exports = {
       android: {},
       ios: {},
     },
-    assets: ['./src/assets/fonts'], // Path to the fonts directory
+    assets: ['./src/assets/fonts'], 
   };
   
